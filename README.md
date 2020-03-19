@@ -6,7 +6,7 @@
 
 ## Description
 
-A fun engaging website showing different Bootstrap styling!
+A fun engaging website with different Bootstrap styling!
 
 ## Setup/Installation Requirements
 
